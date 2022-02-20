@@ -1,0 +1,12 @@
+#pragma once
+#include <Windows.h>
+#include <string>
+#include <tchar.h>
+#include <tlhelp32.h>
+#include <Psapi.h>
+#include "debug.h"
+#include "defines.h"
+#include "injector.h"
+#include <iostream>
+#include <fstream>
+#include <thread>
